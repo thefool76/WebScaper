@@ -1,4 +1,4 @@
-# WebScaper
+# WebScraper
 This email address and phone number scraper prompts the user to enter the complete URL of the webpage that needs to be scraped and stored the email addresses in an excel spreadsheet.
 
 NOTE: Change save_excel = True to store the emails into the spreadsheet.
